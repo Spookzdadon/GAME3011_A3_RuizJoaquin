@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f12561c629fbd2140b68b94901253235, type: 3}
-  m_Name: YellowBlock
+  m_Name: 2BlueBlock
   m_EditorClassIdentifier: 
-  value: 3
-  sprite: {fileID: 4310891822737912554, guid: 1afbd3eff2c64564a886449c7a46c662, type: 3}
+  value: 1
+  sprite: {fileID: -5176625915483504959, guid: 1afbd3eff2c64564a886449c7a46c662, type: 3}
