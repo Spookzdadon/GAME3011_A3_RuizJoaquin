@@ -87,7 +87,7 @@ public sealed class BoardScript : MonoBehaviour
 
     private void Update()
     {
-        if (ScoreCounter.Instance.Scores >= 50)
+        if (ScoreCounter.Instance.Scores >= 300)
         {
             isGameDone = true;
             timer.SetActive(false);
